@@ -16,10 +16,10 @@ __email__ = 'mquezada@dcc.uchile.cl'
 __twitter__ = '@waxkun'
 
 
-API_KEY = 'OAj6thblBFmC6u19h9YA'
-API_SECRET = 'BH2ANmo1cfIpteYhjZ3Ux3jJhmvxjIeunEQniVs4nk'
-USER_TOKEN = '1529430332-UPKUtqtgujcPNwmAaJKN6oUNmVRuuw7iyy7QfZt'
-USER_SECRET = 'CsSrccu9OvlCmJHhbaF1z54veelkvBK5lE3k95K0'
+API_KEY = ''
+API_SECRET = ''
+USER_TOKEN = ''
+USER_SECRET = ''
 
 auth = OAuth1(API_KEY, API_SECRET, USER_TOKEN, USER_SECRET)
 
