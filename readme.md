@@ -35,3 +35,10 @@ stopwords
 
     http://www.wn.lc/ztz
     http://www.wn.lc/woj
+    
+Más información
+---------------
+- virtualenv: http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+- requests: http://docs.python-requests.org/en/latest/
+- pip: https://pypi.python.org/pypi/pip
+- nltk: http://nltk.org/
