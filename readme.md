@@ -30,8 +30,8 @@ nltk
 
 stopwords
 --------
-http://users.dcc.uchile.cl/~mquezada/tt/english
-http://users.dcc.uchile.cl/~mquezada/tt/spanish
+    http://users.dcc.uchile.cl/~mquezada/tt/english
+    http://users.dcc.uchile.cl/~mquezada/tt/spanish
 
-http://www.wn.lc/ztz
-http://www.wn.lc/woj
+    http://www.wn.lc/ztz
+    http://www.wn.lc/woj
