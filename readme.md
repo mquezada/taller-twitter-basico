@@ -21,6 +21,8 @@ pip
 ---
     pip install requests requests-oauthlib
     pip install nltk
+    pip install simplejson
+    pip install ipython
 
 nltk
 ----
