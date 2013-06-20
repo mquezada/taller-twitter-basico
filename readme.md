@@ -11,8 +11,9 @@ virtualenv
 ----------
     curl -O https://raw.github.com/pypa/virtualenv/master/virtualenv.py
     wget https://raw.github.com/pypa/virtualenv/master/virtualenv.py
-    curl -L -o virtualenv.py http://www.wn.lc/onb
-    wget -O virtualenv.py http://www.wn.lc/onb 
+    
+    curl -L -o virtualenv.py http://www.wn.lc/os6
+    wget -O virtualenv.py http://www.wn.lc/os6
     python virtualenv.py my_env
     . my_env/bin/activate
 
@@ -26,3 +27,11 @@ nltk
     python
     import nltk
     nltk.download()
+
+stopwords
+--------
+http://users.dcc.uchile.cl/~mquezada/tt/english
+http://users.dcc.uchile.cl/~mquezada/tt/spanish
+
+http://www.wn.lc/ztz
+http://www.wn.lc/woj
